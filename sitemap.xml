@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tank1126.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tank1126.github.io/</loc>
+</url>
+<url>
+<loc>https://tank1126.github.io/buroguzuo-cheng-turunituite.html</loc>
+<lastmod>2022-01-10T10:24:21+09:00</lastmod>
+</url>
+<url>
+<loc>https://tank1126.github.io/kyoceragarahonoosusumeapuri.html</loc>
+<lastmod>2022-10-19T01:25:10+09:00</lastmod>
+<image:image>
+<image:loc>https://tank1126.github.io/media\posts\4/aurora_1-2.png</image:loc>
+<image:title><![CDATA[aurorastore_DL1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tank1126.github.io/media\posts\4/aurora_2-4.png</image:loc>
+<image:title><![CDATA[aurorastore_DL2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tank1126.github.io/youkoso.html</loc>
+<lastmod>2022-10-17T14:23:31+09:00</lastmod>
+</url>
+</urlset>
