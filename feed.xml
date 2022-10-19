@@ -3,7 +3,7 @@
     <title>忘却のタヌキ</title>
     <link href="https://tank1126.github.io/feed.xml" rel="self" />
     <link href="https://tank1126.github.io" />
-    <updated>2022-10-19T17:05:26+09:00</updated>
+    <updated>2022-10-19T17:15:43+09:00</updated>
     <author>
         <name>tanuki</name>
     </author>
@@ -17,11 +17,12 @@
         <link href="https://tank1126.github.io/garaho_susume.html"/>
         <id>https://tank1126.github.io/garaho_susume.html</id>
             <category term="その他"/>
+            <category term="おすすめ"/>
 
-        <updated>2022-10-19T17:05:26+09:00</updated>
+        <updated>2022-10-19T17:15:34+09:00</updated>
             <summary>
                 <![CDATA[
-                    今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！ この記事にたどり着いた方ならばご存じかもしれませんが、ここでいうガラホとは 外観・形状・使い方はガラケーのまま、中身だけがandroidになったもの のことです。※1 3G終了により使用不能になる、今までのガラケーを置き換える存在として、各社から発売されているものになります。&hellip;
+                    今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！ この記事にたどり着いた方ならばご存じかもしれませんが、ここでいうガラホとは&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -89,11 +90,12 @@
         <link href="https://tank1126.github.io/blog_freestart.html"/>
         <id>https://tank1126.github.io/blog_freestart.html</id>
             <category term="その他"/>
+            <category term="おすすめ"/>
 
-        <updated>2022-10-19T11:41:04+09:00</updated>
+        <updated>2022-10-19T17:15:43+09:00</updated>
             <summary>
                 <![CDATA[
-                    おはようございます、tanukiです。 初回となる今回は、この記事を作成する際に使ったツール等について簡単に紹介しようと思います。 詳細については後日、個別のページを作成して公開いたしますので、そちらも併せてみてください！ ・infinityfree：無料のレンタルサーバです。また、用意されているドメイン名のサブドメインとして作成することで無料での公開ができます。 ・Publii：無料でwebページの作成を補助してくれるソフトウェア。現在もこれを使って執筆しています。&hellip;
+                    おはようございます、tanukiです。 初回となる今回は、この記事を作成する際に使ったツール等について簡単に紹介しようと思います。&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -130,7 +132,7 @@
         <updated>2022-10-17T14:23:31+09:00</updated>
             <summary>
                 <![CDATA[
-                    このページでは自分の収集した情報や実践内容を共有しています！ 皆さんの参考になれば幸いです、よろしくお願いします 新卒で入った会社からドロップアウトしたばかりの軟弱もの。 趣味はスマホの収集や活用方法を考えること。 特に制限のあるスマホ(ガラホやシニアスマホなど)が大好物。&hellip;
+                    このページでは自分の収集した情報や実践内容を共有しています！ 皆さんの参考になれば幸いです、よろしくお願いします&hellip;
                 ]]>
             </summary>
         <content type="html">
