@@ -3,7 +3,7 @@
     <title>忘却のタヌキ</title>
     <link href="https://tank1126.github.io/feed.xml" rel="self" />
     <link href="https://tank1126.github.io" />
-    <updated>2022-10-25T04:34:54+09:00</updated>
+    <updated>2022-10-25T04:38:09+09:00</updated>
     <author>
         <name>tanuki</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="その他"/>
             <category term="おすすめ"/>
 
-        <updated>2022-10-25T04:34:54+09:00</updated>
+        <updated>2022-10-25T04:38:09+09:00</updated>
             <summary>
                 <![CDATA[
                     今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！ この記事にたどり着いた方ならばご存じかもしれませんが、ここでいうガラホとは&hellip;
@@ -80,7 +80,7 @@
 <figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/SDKDL-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-md.png 768w"  alt="" width="720" height="900"><figcaption>(2)ダウンロードリンクを選択します。規約画面を下までスクロールしてPlatform-Toolsをダウンロードしましょう</figcaption></figure>
 <figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/SDKzip-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/SDKzip-3-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/SDKzip-3-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/SDKzip-3-md.png 768w"  alt="" width="642" height="529"><figcaption>(3)ダウンロードしたファイルを選択し、圧縮フォルダー ツールから「すべて解凍」します(<a href="https://tank1126.github.io/SDKzip.png" target="_blank" rel="noopener noreferrer">拡大画像</a>)</figcaption></figure>
 <figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/cmd.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/cmd-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/cmd-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/cmd-md.png 768w"  alt="" width="642" height="529"><figcaption>(4)解凍が終わると、解凍後のフォルダが表示されます。上のアドレスバー(図中に示した位置)にて「cmd」と入力します。(<a href="https://tank1126.github.io/cmd.png" target="_blank" rel="noopener noreferrer">拡大画像</a>)</figcaption></figure>
-<figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/adb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/adb-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/adb-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/adb-md.png 768w"  alt="" width="979" height="512"><figcaption>(5)コマンドプロンプトが起動します。「adb」と入力してみましょう(<a href="https://tank1126.github.io/adb.png">拡大画像</a>)</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/adb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/adb-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/adb-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/adb-md.png 768w"  alt="" width="979" height="512"><figcaption>(5)コマンドプロンプトが起動します。「adb」と入力してみましょう(<a href="https://tank1126.github.io/adb.png" target="_blank" rel="noopener noreferrer">拡大画像</a>)</figcaption></figure>
 <figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/4/adb_a.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/adb_a-xs.png 300w ,https://tank1126.github.io/media/posts/4/responsive/adb_a-sm.png 480w ,https://tank1126.github.io/media/posts/4/responsive/adb_a-md.png 768w"  alt="" width="979" height="512"><figcaption>(6)図のような文章が大量に出てくれば導入に成功しています。この画面のまま次のステップに進みます。(<a href="https://tank1126.github.io/adb_a.png" target="_blank" rel="noopener noreferrer">拡大画像</a>)</figcaption></figure>
 <p>2．PCでインストールしたいアプリのapkファイルをダウンロードします。</p>
 <p>　今回は<a href="https://f-droid.org/">f-droid</a>から<a href="https://f-droid.org/packages/com.aurora.store/">aurora store</a>を入れることにします。<br>　これはGoogleアカウントなしでストアアプリをインストールできるようになるアプリです。<br><strong>　ポインターが使える機種であれば</strong>今後のアプリインストールがかなり楽になります。</p>
