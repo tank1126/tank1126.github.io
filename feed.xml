@@ -3,7 +3,7 @@
     <title>忘却のタヌキ</title>
     <link href="https://tank1126.github.io/feed.xml" rel="self" />
     <link href="https://tank1126.github.io" />
-    <updated>2022-11-02T15:47:29+09:00</updated>
+    <updated>2022-11-16T01:45:15+09:00</updated>
     <author>
         <name>tanuki</name>
     </author>
@@ -61,7 +61,7 @@
         <id>https://tank1126.github.io/garahowowu-li-yaribian-li-nishi-ou-2.html</id>
             <category term="ガラホ"/>
 
-        <updated>2022-11-02T15:31:31+09:00</updated>
+        <updated>2022-11-02T15:49:02+09:00</updated>
             <summary>
                 <![CDATA[
                     新しいガラホ向け手法(パソコンと事前準備が必要) 比較的新しいガラホでは、上記の手順でのインストールはできないようになっています(そもそも提供元不明アプリのインストールの設定項目がない)&hellip;
@@ -74,9 +74,8 @@
 <p>・用意するもの<br>　ガラホ<br>　接続ケーブル<br>　PC(今回はwindowsを対象に説明します)</p>
 <p>・手順</p>
 <p>　1．パソコンでADBが使えるようにする<br>　この手法ではadbコマンドを利用するため、ADBの環境を作る必要があります。<br>　アプリを作るなど高度なことを今後したいという方はandroid studioをインストールする方法もありますが…今回はadb、fastbootだけが一時的に使えるよう設定します<a href="https://tank1126.github.io/garaho_susume.html#sharp2">※1</a></p>
-<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/7/SDKPlatformTools.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-xs.png 300w ,https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-sm.png 480w ,https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-md.png 768w"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/SDKPlatformTools-xs.png 300w, https://tank1126.github.io/media/posts/4/responsive/SDKPlatformTools-sm.png 480w, https://tank1126.github.io/media/posts/4/responsive/SDKPlatformTools-md.png 768w" alt="" width="720" height="900" loading="lazy"></figure>
-<figcaption>(1)Android SDK Platform-Toolsと検索し、こちらの<a href="https://developer.android.com/studio/releases/platform-tools?hl=ja" target="_blank" rel="noopener noreferrer">Google開発者向けサイト</a>に遷移します</figcaption>
-</figure>
+<figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/7/SDKPlatformTools-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-2-xs.png 300w ,https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-2-sm.png 480w ,https://tank1126.github.io/media/posts/7/responsive/SDKPlatformTools-2-md.png 768w"  alt="" width="720" height="900"><figcaption>(1)Android SDK Platform-Toolsと検索し、こちらの<a href="https://developer.android.com/studio/releases/platform-tools?hl=ja" target="_blank" rel="noopener noreferrer">Google開発者向けサイト</a>に遷移します</figcaption></figure>
+<p> </p>
 <figure class="post__image"><img loading="lazy" src="ガラホを(無理やり)便利に使おう_files/SDKDL-2.png" data-is-external-image="true"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-xs.png 300w, https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-sm.png 480w, https://tank1126.github.io/media/posts/4/responsive/SDKDL-2-md.png 768w" alt="" width="720" height="900" loading="lazy">
 <figcaption>(2)ダウンロードリンクを選択します。規約画面を下までスクロールしてPlatform-Toolsをダウンロードしましょう</figcaption>
 </figure>
@@ -147,15 +146,15 @@
             <category term="ガラホ"/>
             <category term="おすすめ"/>
 
-        <updated>2022-11-02T15:18:22+09:00</updated>
+        <updated>2022-11-16T01:45:15+09:00</updated>
             <summary>
                 <![CDATA[
-                    今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！ この記事にたどり着いた方ならばご存じかもしれませんが、ここでいうガラホとは&hellip;
+                    今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！ 追加方法だけ知りたい方は、アプリの追加方法まで飛ばしてもらって大丈夫です&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！</p>
+                <p>今回は、自分の愛用しているデバイスである、ガラホについて、またそれにアプリを(半ば無理やり)導入する方法について書いていきたいと思います！<br>追加方法だけ知りたい方は、<a href="addapp">アプリの追加方法</a>まで飛ばしてもらって大丈夫です</p>
 <h2>そもそもガラホとは？</h2>
 <p>この記事にたどり着いた方ならばご存じかもしれませんが、ここでいうガラホとは<br><strong>外観・形状・使い方はガラケーのまま、中身だけがandroidになったもの<br></strong>のことです。<a href="#sharp1">※1</a><br>3G終了により使用不能になる、今までのガラケーを置き換える存在として、各社から発売されているものになります。<br>基本的には</p>
 <p>・Google系のアプリが入っていない<br>・アプリストアがないorごく少数のみ用意されている<br>・ガラケーにあった機能も削減されていることがある</p>
@@ -171,7 +170,7 @@
 <p><strong>外部アプリでポインターが使えない！！！！</strong></p>
 <p>通常用途なら全く問題ないのですが、今回は<strong>”無理やり便利に使おう”</strong>がテーマなので…無理やりしてもあまり便利にならないので最下位です…残念</p>
 <blockquote><address>ちなみにSHF31では使えます、またSnapdragon400なのでほかのものよりは性能がよく、比較的快適です…古く、androidバージョンが低いこと、また後述するホーム画面問題があるので、個人的にはKYF系より下の順位となります…</address></blockquote>
-<h2>アプリの追加方法</h2>
+<h2 id="addapp">アプリの追加方法</h2>
 <p>それでは実際にアプリを追加していきましょう！<br>ただ、android5などの8未満のガラホと、8や10を搭載しているガラホで方法が大きく異なります…<br>古い手法はBluetoothを用いる方法、新しい手法はパソコンを用いてインストールする方法となっています。<br>また、自分の所持していないガラホに関しては推測となります、予めご了承ください</p>
 <blockquote><address>後多分simplyとかカードケータイはもっとややこしいので普通のガラホに限ります</address></blockquote>
 <p>～2020年のau,～2017年のdocomo,Softbank,Y!mobile(≒android8未満)<br>→<a href="https://tank1126.github.io/garahowowu-li-yaribian-li-nishi-ou-1.html" target="_blank" rel="noopener noreferrer">古いガラホ向け手法</a>または<a href="https://tank1126.github.io/garahowowu-li-yaribian-li-nishi-ou-2.html" target="_blank" rel="noopener noreferrer">新しいガラホ向け手法</a>の両方が可能</p>
