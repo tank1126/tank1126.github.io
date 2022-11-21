@@ -3,12 +3,214 @@
     <title>忘却のタヌキ</title>
     <link href="https://tank1126.github.io/feed.xml" rel="self" />
     <link href="https://tank1126.github.io" />
-    <updated>2022-11-16T01:45:15+09:00</updated>
+    <updated>2022-11-21T12:13:33+09:00</updated>
     <author>
         <name>tanuki</name>
     </author>
     <id>https://tank1126.github.io</id>
 
+    <entry>
+        <title>ガラホでネットサーフィン！～Firefox Focus～</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/garahodenetutosahuin~firefox-focus~.html"/>
+        <id>https://tank1126.github.io/garahodenetutosahuin~firefox-focus~.html</id>
+            <category term="ガラホ"/>
+            <category term="アプリ紹介"/>
+
+        <updated>2022-11-21T11:34:52+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回は、ブラウザアプリの紹介です！ もちろん、ガラホには最初からブラウザアプリが入っているので、ただ単にwebサイトを見るだけであればそれで十分に機能します。&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回は、ブラウザアプリの紹介です！<br>もちろん、ガラホには最初からブラウザアプリが入っているので、ただ単にwebサイトを見るだけであればそれで十分に機能します。<br>しかし、今後のアプリの導入などの際に、標準ブラウザでは「対応していません」などと表示されることが多くあるので、別のブラウザを推奨します。</p>
+<p>※外部アプリでポインターの使える機種での利用を推奨します。<br>できないガラホでも比較的ましではありますが、そういった機種は通常は内蔵のブラウザアプリをご利用いただき、対応外の場合のみこのアプリに切り替えることを推奨します。</p>
+<p>Firefox Focusとは</p>
+<p>Firefoxのプライバシー配慮版のブラウザになります。<br>検索履歴は終了するたびに初期化され、追跡型広告も一部が無効化されます。<br>キャッシュなども消去されるため、端末の容量を圧迫することなく利用が可能です。<br>ガラホの場合、なぜかこれ以外のアプリでは検索バーへの入力がうまくいかないことがありましたが、このアプリは少しくせがある(文字の一部を削除しようとすると全部消える場合がある)ものの、ほかのブラウザに比べると使いやすいと感じています。</p>
+<p>導入方法</p>
+<p>○○</p>
+<p>メリット</p>
+<p>一部の広告が非表示になる。(ブロックをメインにしているわけではないので表示されるものも多い)<br>キャッシュファイルなどが削除されるため、継続利用しても容量を圧迫しずらい。</p>
+<p>デメリット</p>
+<p>入力に少しくせがある。<br>履歴が消えるので過去に見たページを再度見る場合は検索するか、メモしておかなければならない。<br>FireFoxがベースのため、一部のwebサイトで非対応となる場合がある。(近年はChrome,Edgeのみサポートしているサイトがあるため)</p>
+<p>自分はスマホでも基本的にこのブラウザを使っています。<br>キャッシュが増えるのを抑制してくれるのがかなり助かります…特にiPhoneはキャッシュの削除方法が統一されていないので…(筆者はiPhone,Android両方を使っています)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ガラホでTwitter&amp;DM通知が来る！～Twidere X～</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/garahodetwitteranddmtong-zhi-galai-ru~twidere-x~.html"/>
+        <id>https://tank1126.github.io/garahodetwitteranddmtong-zhi-galai-ru~twidere-x~.html</id>
+            <category term="ガラホ"/>
+            <category term="アプリ紹介"/>
+
+        <updated>2022-11-21T00:00:09+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回は、ガラホでも使えるTwitterクライアントを紹介します！ しかも、ガラホにしては珍しく通知が来るようです…！(自分宛てのDMで確認)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回は、ガラホでも使えるTwitterクライアントを紹介します！<br>しかも、ガラホにしては珍しく通知が来るようです…！(自分宛てのDMで確認)<br>※ガラホではほとんどのアプリで通知機能が動作しません…GooglePlay開発者サービスという、通常のスマホでは入っている中核的なアプリがないため、それをもとに通知を入れています…が、ガラホには備わっていないため、ほとんどのアプリで通知は機能しません。</p>
+<p>TwidereXとは</p>
+<p>そこそこ有名な非公式Twitterクライアント、Twidereの新機能搭載版になります。<br>このクライアントを試したのは単純にAurora store上でダウンロード容量が少なめと表示されていたTwitterクライアントだから、という理由でした(;'∀')<br>結構使いやすく、通知も機能するようなので現在一押しのアプリとなっています！</p>
+<p>導入方法</p>
+<p>○○</p>
+<p>ちなみに、今まで各種アプリを使いましたが、正常に通知が動作したことがあるのはこのアプリくらいでした。(数分程度の遅延はあります。)<br>ほかにLINE,Discord,Skypeなどを試したことがありますが、どれも通知が来たことはありません。<br>今後も安定して通知が来るかは疑問の余地がありますが、ひとまず共有するために掲載させてもらいました！</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ガラホで音量変更？～StatusBarLauncher～</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/garahonoonry.html"/>
+        <id>https://tank1126.github.io/garahonoonry.html</id>
+            <category term="ガラホ"/>
+            <category term="アプリ紹介"/>
+
+        <updated>2022-11-20T23:31:35+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回は、音量調節キーのないガラホで外部アプリ利用中に音が変えられない？！という事態に対処するためのアプリを紹介します！ ※対象機種&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回は、音量調節キーのないガラホで外部アプリ利用中に音が変えられない？！という事態に対処するためのアプリを紹介します！</p>
+<p>※対象機種</p>
+<p>これは音量調節キーがなく、アプリ利用中にステータスバー(通知バー)を開くことのできる機種のみを対象つぃています。<br>こちらの環境での対象機種は以下の3機種です。</p>
+<p>KYF31,KYF37,KYF42</p>
+<p>これ以外の機種でも、ハードキーの機能として長押し等でステータスバー(通知バー)が利用できる機種でも利用できると思いますが、こちらで確認を取っているわけではありません。あしからずご了承ください。</p>
+<p>StatusBarLauncherとは？</p>
+<p>GooglePlayで配布されている、通知領域で各種設定を変更するためのアプリです。<br>最終更新が2016年、対象OSがAndroid2.3以上と、かなり古くターゲットも古いものであり、ほかのステータスバー系のアプリとは異なり通知1行につき一つの設定変更しか配置できません。<br>このため、通常のスマホにとっては他のアプリのほうが圧倒的におすすめです。<br>しかしガラホの場合、通知一つ一つを選択することはできてもその中の特定の部分を選択する、という操作には対応していない場合がほとんどです。<br>このため、古い形式のこのアプリが活躍します。</p>
+<p>メリット</p>
+<p>SmartTubeNextなどの外部アプリ利用時も音量を変更することができる</p>
+<p>デメリット</p>
+<p>通知領域を常に占有する</p>
+<p>導入方法</p>
+<p>○○</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ガラホでアプリを追加？～Aurora Store～</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/garahodeapuriwozhui-jia~aurora-store~.html"/>
+        <id>https://tank1126.github.io/garahodeapuriwozhui-jia~aurora-store~.html</id>
+            <category term="ガラホ"/>
+            <category term="アプリ紹介"/>
+
+        <updated>2022-11-20T23:11:56+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回は、ガラホでGooglePlay上にあるアプリをインストールできるようにするアプリ、Aurora Storeを紹介します！&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回は、ガラホでGooglePlay上にあるアプリをインストールできるようにするアプリ、Aurora Storeを紹介します！</p>
+<p>Aurora Storeとは？</p>
+<p>Aurora Storeは、通常のスマホでのアプリを導入するためのアプリ、GooglePlayのアプリをGoogleアカウント不要でインストールできるようにするため、オープンソースで開発されているアプリです！<br>F-droidというそういったオープンソースのアプリのみを取り扱うサイトに掲載されているため、比較的安心して利用できるアプリです。<br>また、有名なAPKPureなどの野良アプリストアとは違い、直接GooglePlayのアプリデータをダウンロードするため、ほかの野良アプリストアよりは安全だと言われています。</p>
+<p>メリット</p>
+<p>ガラホなのに通常のスマホのようにアプリを追加できるようになる<br>その他の野良アプリストアでのダウンロードでは起動しないアプリも動作するようにダウンロードされることがある<br>検索時に広告のないものや、評価4以上のものなどのフィルターをかけることができる<br>検索結果にダウンロード容量が掲載されるため、アプリ容量の少ないアプリを選ぶことができる</p>
+<p>デメリット</p>
+<p>スマホ向けのUIのため、ポインターが利用できない機種での操作はかなり難しい<br>インストールできても起動しないアプリも表示される<br>サーバーの調子が悪いときは起動しなくなる(特に障害情報等も出ない)<br>一部ガラホ内蔵アプリがスマホ用アプリにアップデートされ、利用しづらくなる場合がる<br>キャリアアプリ等の一部でアップデートできないものがある</p>
+<p>導入方法</p>
+<p>○○</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ガラホでYoutubeを見る！～SmartTubeNext～</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/garahoxiang-keosusumeapuri-1-smarttubenext.html"/>
+        <id>https://tank1126.github.io/garahoxiang-keosusumeapuri-1-smarttubenext.html</id>
+            <category term="ガラホ"/>
+            <category term="アプリ紹介"/>
+
+        <updated>2022-11-21T11:16:25+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回から、自分がガラホに導入しているアプリのうち、特に便利だと感じているアプリを紹介していこうと思います！ 第一弾はSmartTubeNextです！&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回から、自分がガラホに導入しているアプリのうち、特に便利だと感じているアプリを紹介していこうと思います！<br>第一弾はSmartTubeNextです！</p>
+<p>SmartTubeNextとは？</p>
+<p>このアプリは、AndroidTV用Youtubeアプリをベースにして開発されたYoutube視聴用アプリです！<br>AndroidTVはリモコンで操作することが前提であるため、ガラホの物理キーでの操作で使いやすくなっています。<br>※通常のスマホでは逆に使いづらいので、物理キーの存在するAndroidでのみ利用するとよいでしょう。</p>
+<p>メリット</p>
+<p>Youtubeをガラホで、スムーズにみることができる<br>キー操作に最適化されているため、タッチポインターを利用できない機種でも利用しやすい</p>
+<p>デメリット</p>
+<p>強制的に横全画面表示になるため、キー入力等で一部混乱する場合がある<br>動画視聴に特化しているため、チャット等の閲覧はできない</p>
+<p>導入方法</p>
+<p>1．ブラウザアプリにて「SmartTubeNext」を検索し、Githubページからダウンロードする</p>
+<figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/10/anydesk00004.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/10/responsive/anydesk00004-xs.png 300w ,https://tank1126.github.io/media/posts/10/responsive/anydesk00004-sm.png 480w ,https://tank1126.github.io/media/posts/10/responsive/anydesk00004-md.png 768w"  alt="" width="480" height="854"><figcaption>SmartTubeNextと検索し、Githubにアクセスする</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tank1126.github.io/media/posts/10/anydesk00005.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tank1126.github.io/media/posts/10/responsive/anydesk00005-xs.png 300w ,https://tank1126.github.io/media/posts/10/responsive/anydesk00005-sm.png 480w ,https://tank1126.github.io/media/posts/10/responsive/anydesk00005-md.png 768w"  alt="" width="480" height="854"><figcaption>スクロールし、途中のLatest Stable Downloadをクリック</figcaption></figure>
+<p> </p>
+<p> </p>
+<p>便利な設定</p>
+<p>・画質設定<br>　ガラホの性能的に360p上限設定をすると比較的スムーズに表示できるようになる(余裕そうなら480p、下げる場合は240pなどで試してみるとよい)</p>
+<p>今回は第一段としてSamrtTubeNextを紹介しました、今後も紹介していく予定なのでよろしくお願いします！</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>個人的おすすめガラホ・共通おすすめアプリ</title>
+        <author>
+            <name>tanuki</name>
+        </author>
+        <link href="https://tank1126.github.io/ge-ren-de-osusumegarahoosusumeapuri.html"/>
+        <id>https://tank1126.github.io/ge-ren-de-osusumegarahoosusumeapuri.html</id>
+            <category term="ガラホ"/>
+            <category term="おすすめ"/>
+
+        <updated>2022-11-21T12:13:33+09:00</updated>
+            <summary>
+                <![CDATA[
+                    今回は、個人的に気に入っている機種・アプリについて述べていきます！ ガラホではできないこと・不便なことが多々ありますが、それを少しでも改善できると幸せです！&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>今回は、個人的に気に入っている機種・アプリについて述べていきます！<br>ガラホではできないこと・不便なことが多々ありますが、それを少しでも改善できると幸せです！</p>
+<h2>おすすめのガラホ</h2>
+<p>まず結論から言うと、自分の持っているガラホ数種の中でランキングを付けると…</p>
+<h3>1．KYF42　★★★★★</h3>
+<p>android10をベースにし、Snapdragon215を搭載するガラホです。<br>現状手持ちのガラホで最新のものとなります。<br>おまじないをすることでタッチの代わりのポインターを十字キーで操作でき、純正のホームアプリも便利で個人的に使い勝手が良いです。<br>しかし、android10にしたためか、従来の機種に比べるとメモリの空き容量が少なく、全体的にわずかにもっさりした動作が少し気になります。</p>
+<h3>2．KYF37　★★★★☆</h3>
+<p>android5をベースにし、snapdragon210を搭載するガラホです。<br>KYF37と同じような特徴を持ち、さらにKYF42では省略されてしまった、背面のライト、歩数計、ワンセグといった便利機能が搭載されています。<br>また、メモリの使用量が少ないため、少しだけ動作がましになっています。<br>しかし、android5は少し古いため、だんだんと非対応のアプリが増え始めているのが現状です。<br>自分の環境ではPayPayアプリが近日中に利用できなくなるとの通知が常に表示されています。(11/1現在は決済可能です。)</p>
+<h3>3．KYF31　★★★☆☆</h3>
+<p>基本的な機能はkyf37と同様です。しかし、十字キーでのポインター操作ではなく、数字キー上を、ノートPCのタッチパッドのように使う機能が搭載されており、人によってはこちらのほうが直感的に利用できると感じる方もおられるでしょう。<br>しかし、kyf37では外部アプリの利用時、基本的にはポインターを起動するとずっとポインター、オフにするとキー操作に切り替わるのですが、kyf31ではポインターを有効にしても頻繁にタッチを検出しなくなり、サイト有効化する手間が発生したため、自分にはあまり合いませんでした。</p>
+<h3>ランク外：SHF31、SH02L　☆☆☆☆☆</h3>
+<p>SHF31はガラホの最初期に登場したもので、VoLTE非対応で合ったりと、今では残念に思う部分が増えています。また、搭載OSがandroid4.4と、kyf31,37よりさらに古く、今から使うことにはあまり向いていない状況です。<br>SH02Lに関しては、androidこそ8.0と比較的新しくはあるのですが、後述のおまじないを行ってもポインターが有効化されるのは純正ブラウザーのみ！これではほとんどのアプリを操作することができません。<br>また、これらの2機種についてはホーム画面がガラケーに準拠しており、スマホのように各種アプリをホームに登録しておくことができません。また、通知領域に関してもホーム以外から開く手段が標準では提供されていない(自分の調査不足の可能性もあります)ため、通知領域を利用するタイプのアプリも使い勝手が非常に悪いのです。</p>
+<p>※なお、これ以外にG'sOne TYPE-XXがカタログスペック上はお勧めしたいところではありますが…高額な機種故入手しておりません、予めご了承くださいませ。</p>
+<h2>はじめに導入すべきアプリ</h2>
+<p>ガラホにおいて、最初に入れるべきアプリはアプリをインストールするためのアプリです。おすすめ順を以下に示します。</p>
+<h3>1．Aurora Store</h3>
+<p>これはGooglePlayの代替アプリです。<br>詳しくは別記事にまとめますが、これがあればアプリのインストールは基本的にこれに任せてしまえるほどに便利なものとなっています。<br>しかし、基本的にスマホに最適化されているため、ポインターが使えない機種での利用はかなり面倒です…使えないわけではないのですが、カーソルを思うように操作するのが難しいです…ブラウザでGooglePlayのアプリページを開き、AuroraStoreで開くように共有する、などの方法はありますので、そうやってGooglePlay上の推奨アプリを入れるのがよいかもしれません。</p>
+<h3>2．Files By Google</h3>
+<p>基本的に端末内のファイル操作を通常のスマホと似た形にするのであればこれがおすすめです。ストア以外からのアプリのインストールに大活躍します。また、Aurora Storeが利用しづらい端末ではこちら経由でのインストールのほうが楽かもしれません。<br>しかし入手法がGooglePlay配布が基本なので…Aurora Storeが使えない場合はこれの入手にてこずると思います。その場合は別のアプリを利用することになると思います…最近はそういった配布をしているアプリが減っているので、できればAuroraStoreからこのアプリを入手することをお勧めします。</p>
+<h3>3．Firefox Focus</h3>
+<p>内蔵のブラウザではインストール用ファイルをダウンロードできないので、ブラウザアプリを別にインストールすることがおすすめです。自分は複数入れてみましたが、その中でお勧めなのがこのアプリです。<br>また、基本的にはAuroraStore経由でのインストールがおすすめですが…「Firefox Focus Apk Github」と検索すると、公式でアプリが配布されていますので、Releaseから最新版をダウンロードすればAurora Storeを使わずにインストールすることも可能です。</p>
+<p>今後その他のおすすめアプリについてもまとめていく予定なので、更新を待っていてくださると幸いです！</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ガラホを(無理やり)便利に使おう #1 旧手法</title>
         <author>
@@ -214,28 +416,6 @@
 <p>　これはすべてプログラムのようにテキストで記述していくことも可能ですが、簡単に投稿したい時にはかなり不便です。</p>
 <p>　このため、コンテンツ管理サービス(CMS)を利用することでその手順を短くすることが可能です。今回は静的コンテンツ(完成までを作ってしまってからアップする形式)として作るためにPubliiを利用しました。<br>　逆に動的に編集できるものとしては世界的に有名なWordPressがありますが、今回は簡単に作りたかったため、こちらを使用して軽量に仕上げることにしました。</p>
 <p>　正直に言うとデフォルトで用意されている・または無料で提供されているテンプレートをうまく活用できてはいませんが、これから頑張っていきたいです。</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>はじめに</title>
-        <author>
-            <name>tanuki</name>
-        </author>
-        <link href="https://tank1126.github.io/youkoso.html"/>
-        <id>https://tank1126.github.io/youkoso.html</id>
-
-        <updated>2022-10-17T14:23:31+09:00</updated>
-            <summary>
-                <![CDATA[
-                    このページでは自分の収集した情報や実践内容を共有しています！ 皆さんの参考になれば幸いです、よろしくお願いします&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>このページでは自分の収集した情報や実践内容を共有しています！<br>皆さんの参考になれば幸いです、よろしくお願いします</p>
-<h2>著者：tanuki</h2>
-<p>新卒で入った会社からドロップアウトしたばかりの軟弱もの。<br>趣味はスマホの収集や活用方法を考えること。<br>特に制限のあるスマホ(ガラホやシニアスマホなど)が大好物。<br>最近は維持費の安い回線を4つ以上常に契約している。</p>
             ]]>
         </content>
     </entry>
